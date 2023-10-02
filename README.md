@@ -5,7 +5,7 @@
 
 <div>
   <a href="https://github.com/Claudivansdn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClaudivanDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Claudivansdn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudivansdn&layout=compact&langs_count=7&theme=dark"/>
 </div>
     
