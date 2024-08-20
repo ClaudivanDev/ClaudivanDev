@@ -1,6 +1,5 @@
 ### Hi! Eu sou o Claudivan Santos do Nascimento👋
-- 🔭 Acadêmico de Eng. De Software e Tec. de Automação Indutrial. Quero desenvolver soluções que mudem nossas vidas para cada vez melhor!
-- 👨‍💻 Atualmente trabalho como Auxiliar Tec. de Automação, onde denvolvo códigos de programação, além de ter contato com bancos de dados.
+- 🔭 Acadêmico de Eng. De Software
 - 🌱 Estudando C# e .NET
 
 <div>
